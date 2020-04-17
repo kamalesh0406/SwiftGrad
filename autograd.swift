@@ -1,5 +1,3 @@
-import Foundation
-
 class Node: Equatable{
     
     var value: Float
